@@ -1,4 +1,4 @@
-package com.example.easypaisa;
+package com.example.calculator;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

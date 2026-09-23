@@ -1,4 +1,4 @@
-module com.example.easypaisa.easypaisa {
+module com.example.calculator.easypaisa {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
@@ -11,6 +11,6 @@ module com.example.easypaisa.easypaisa {
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
 
-    opens com.example.easypaisa to javafx.fxml;
-    exports com.example.easypaisa;
+    opens com.example.calculator to javafx.fxml;
+    exports com.example.calculator;
 }

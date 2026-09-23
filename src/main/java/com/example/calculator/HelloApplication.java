@@ -1,4 +1,4 @@
-package com.example.easypaisa;
+package com.example.calculator;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

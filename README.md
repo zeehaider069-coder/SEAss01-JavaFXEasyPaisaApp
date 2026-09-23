@@ -1,1 +1,1 @@
-# SEAss01-JavaFXEasyPaisaApp
+# SEAss01-CalculatorJavaFX
